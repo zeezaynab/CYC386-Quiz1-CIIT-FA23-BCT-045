@@ -1,0 +1,3 @@
+1)validate and sanitize user input
+2)store passowrds using salted hashing algo
+3)never hardcore passwords, API keys or other secrets
